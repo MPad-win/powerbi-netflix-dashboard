@@ -1,34 +1,36 @@
 📊 Netflix Titles Dashboard (Power BI)
 
-This project analyzes 9,999 Netflix titles to understand catalog trends, content growth, ratings distribution and country dominance.
+This dashboard analyzes 9,999 Netflix titles to uncover content trends, production growth, rating distribution, and country dominance across the platform.
 
 ✅ Key Insights
 
-Movies represent ~74% of all titles
+Movies account for roughly 74% of all titles.
 
-Content production surged after 2015, peaking around 2020
+Content production accelerated sharply after 2015, peaking around 2020.
 
-The US dominates the catalog, with over 3,000 titles
+The United States leads the catalog with more than 3,000 titles.
 
 ✅ Dashboard Features
 
-Total KPIs: Titles, Movies, TV Shows
+KPI cards: Total Titles, Movies, TV Shows
 
-Movies vs TV Shows breakdown
+Movies vs TV Shows comparison
 
-Titles per Year trend
+Titles per Year time-trend
 
-Rating distribution
+Rating Distribution breakdown
 
-Top 10 countries by number of titles
+Top 10 Countries by number of titles
 
-✅ Tools Used
+✅ Tools & Skills Used
 
 Power BI
 
 Data cleaning & modeling
 
-DAX measures (basic)
+Basic DAX measures
+
+Dashboard design & publishing
 
 ✅ Live Dashboard
 
@@ -36,6 +38,9 @@ DAX measures (basic)
 
 ✅ Files Included
 
-📁 Power BI PBIX file
+📁 Netflix_Dashboard_v1.pbix
+🖼 Dashboard Screenshot
 
-🖼 Dashboard screenshot
+✅ Why It Matters
+
+This dashboard helps stakeholders understand content supply trends and regional dominance, supporting data-driven decisions for catalog planning and content strategy.
