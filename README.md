@@ -41,6 +41,21 @@ Dashboard design & publishing
 📁 Netflix_Dashboard_v1.pbix
 🖼 Dashboard Screenshot
 
-✅ Why It Matters
+✅ Overall Business Recommendations
 
-This dashboard helps stakeholders understand content supply trends and regional dominance, supporting data-driven decisions for catalog planning and content strategy.
+Based on the content trends and country distribution, Netflix should focus on three key strategic areas:
+
+1. Strengthen High-Growth Production Regions
+
+Countries outside the US—especially India, the UK, and South Korea—show consistent growth in content output.
+Netflix should expand partnerships in these regions to diversify the catalog and reduce reliance on the US market.
+
+2. Increase Investment in TV Shows
+
+Although movies dominate the catalog (74%), TV shows drive longer user engagement and retention.
+Expanding high-quality TV series in emerging genres can improve watch time and reduce churn.
+
+3. Rebalance Catalog Around Post-2015 Content Surge
+
+The sharp increase in titles after 2015 suggests a shift toward modern content preferences.
+Netflix should prioritize promoting and acquiring recent, high-performing titles, while gradually phasing out low-engagement legacy content.
